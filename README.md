@@ -19,8 +19,8 @@
 		-- the districts' overall pass percentage fell from 65.2% to 64.9%
 #### Summary before replacement:	
 ![District Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/district%20summary%20prior.PNG )
-#### Summary before replacement:	
-![District Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/district%20summary%20post.PNG )
+#### Summary after replacement:	
+![District Summary post]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/district%20summary%20post.PNG )
 			
 		
 ## School Summary
