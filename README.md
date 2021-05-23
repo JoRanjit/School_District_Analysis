@@ -18,9 +18,9 @@
 		-- the districts' reading pass percentage fell from 85.8% to 85.7%
 		-- the districts' overall pass percentage fell from 65.2% to 64.9%
 #### Summary before replacement:	
-![District Summary prior] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/district%20summary%20prior.PNG)
+![District Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/district%20summary%20prior.PNG )
 #### Summary before replacement:	
-![District Summary prior] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/district%20summary%20post.PNG)
+![District Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/district%20summary%20post.PNG )
 			
 		
 ## School Summary
@@ -31,10 +31,10 @@
 		-- Thomas High School’s Overall passing % fell from 90.94 to 65.07
 		
 #### Thomas High Schools Stats before:
-![School Summary prior] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/Thomas%20Prior.PNG)
+![School Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/Thomas%20Prior.PNG)
 
 #### Thomas High Schools Stats after:
-![School Summary post] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/Thomas%20Post.PNG)
+![School Summary post]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/Thomas%20Post.PNG)
 			
 ## Top and Bottom Performers
 ### -----------------------------
@@ -42,10 +42,10 @@
 		-- Thomas High School fell from 2nd to 8th position in the Overall passing %
 	
 #### Thomas High Schools Stats before:
-![School Summary prior] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/top%20performers%20prior.PNG)
+![School Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/top%20performers%20prior.PNG)
 
 #### Thomas High Schools Stats after:
-![School Summary post] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/top%20performers%20post.PNG)
+![School Summary post]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/top%20performers%20post.PNG)
 			
 ## The scores by school spending per student, by school size, and by school type
 ### ---------------------------------------------------------------------------------
@@ -55,23 +55,23 @@
 	Before and after the replacement - the overall passing % for 630-644 range remained at 63 %
 		
 #### Spending Summary Stats before:
-![Spending Summary prior] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/spending%20prior.PNG)
+![Spending Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/spending%20prior.PNG)
 
 #### Spending Summary Stats after:
-![Spending Summary post] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/spending%20post.PNG)
+![Spending Summary post]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/spending%20post.PNG)
 		
 	Before and after the replacement - the overall passing % for Medium size remained at 91 %
 		
 #### School Size Summary Stats before:
-![School Size Summary prior] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/size%20prior.PNG)
+![School Size Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/size%20prior.PNG)
 
 #### School Size Summary Stats after:
-![School Size Summary post] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/size%20post.PNG)
+![School Size Summary post](https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/size%20post.PNG)
 			
 	Before and after the replacement - the overall passing % for Charter schools remained at 90 %
 		
 #### School Type Summary Stats before:
-![School type_ Summary prior] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type_%20prior.PNG)
+![School type_ Summary prior](https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type_%20prior.PNG)
 
 #### School type_ Summary Stats after:
-![School type_ Summary post] (https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type_%20post.PNG)
+![School type_ Summary post](https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type_%20post.PNG)
