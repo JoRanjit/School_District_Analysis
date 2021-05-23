@@ -30,10 +30,10 @@
 		-- Thomas High School’s Reading passing % fell from 97.31 to 69.66
 		-- Thomas High School’s Overall passing % fell from 90.94 to 65.07
 		
-#### Thomas High Schools Stats before:
+#### Thomas High School's Stats before:
 ![School Summary prior]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/Thomas%20Prior.PNG)
 
-#### Thomas High Schools Stats after:
+#### Thomas High School's Stats after:
 ![School Summary post]( https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/Thomas%20Post.PNG)
 			
 ## Top and Bottom Performers
@@ -71,7 +71,7 @@
 	Before and after the replacement - the overall passing % for Charter schools remained at 90 %
 		
 #### School Type Summary Stats before:
-![School type_ Summary prior](https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type_%20prior.PNG)
+![School type_ Summary prior](https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type%20prior.PNG)
 
 #### School type_ Summary Stats after:
-![School type_ Summary post](https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type_%20post.PNG)
+![School type_ Summary post](https://github.com/JoRanjit/School_District_Analysis/blob/main/Resources/type%20post.PNG)
